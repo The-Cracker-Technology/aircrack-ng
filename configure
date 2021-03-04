@@ -7955,11 +7955,11 @@ _RC=0
 
 _SCM=
 
-LT_VER=1.6.0
+LT_VER=1.6.0-ANDRAX
 
 MAN_RELEASE_DATE="January 2020"
 
-MAN_RELEASE_VERSION="Version 1.6.0"
+MAN_RELEASE_VERSION="Version 1.6.0-ANDRAX"
 
 
 $as_echo "#define _REVISION \"1.6.0\"" >>confdefs.h
